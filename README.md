@@ -1,5 +1,5 @@
-#About me
-##Studies
+# About me
+## Studies
 - 👋 Hi, I’m @DaehyeopKim
 - 👀 I’m interested in Mathematics.
 - 🌱 I’m currently learning Java/C/Python.
